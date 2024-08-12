@@ -1,0 +1,1 @@
+This folder is for the "restaurant_init.py" script. This uses the restaurant-menus2.csv and restaurant2.csv files to generate all restaurants and their menus, and add them to the database. It allows adding all restaurants to the DB, viewing the restaurants table, and dropping the table.
